@@ -10,7 +10,7 @@
     "homepage": "https://github.com/php-stubs/polylang-pro-stubs",
     "license": "GPL-3.0-or-later",
     "require": {
-        "wpsyntex/polylang-stubs"": "^3.0"
+        "wpsyntex/polylang-stubs": "^3.0"
     },
     "suggest": {
         "szepeviktor/phpstan-wordpress": "WordPress extensions for PHPStan",
