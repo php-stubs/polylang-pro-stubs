@@ -1,0 +1,20 @@
+{
+    "name": "php-stubs/polylang-pro-stubs",
+    "description": "Polylang and Polylang Pro function and class declaration stubs for static analysis.",
+    "keywords": [
+        "polylang",
+        "wordpress",
+        "static analysis",
+        "phpstan"
+    ],
+    "homepage": "https://github.com/php-stubs/polylang-pro-stubs",
+    "license": "GPL-3.0-or-later",
+    "require": {
+        "wpsyntex/polylang-stubs"": "^3.0"
+    },
+    "suggest": {
+        "szepeviktor/phpstan-wordpress": "WordPress extensions for PHPStan",
+        "symfony/polyfill-php73": "Symfony polyfill backporting some PHP 7.3+ features to lower PHP versions"
+    },
+    "minimum-stability": "stable"
+}
